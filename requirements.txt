@@ -1,0 +1,6 @@
+langchain
+faiss-cpu
+transformers
+accelerate
+torch
+peft
